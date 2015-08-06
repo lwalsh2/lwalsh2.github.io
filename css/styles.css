@@ -11,7 +11,7 @@ div#page1
 	margin-right: auto;
 	// For grow & shrink as per screen size change values as per your requirements
 	width: 80%;
-	height: 80px;
+	height: 1000px;
 	background-image: url(../image/scenery.jpg);
 	background-size: cover;
 }
