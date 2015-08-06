@@ -160,8 +160,3 @@ ul > li > ol > li
 {
 	list-style: decimal;
 }
-
-nav
-{
-	position = fixed;
-}
