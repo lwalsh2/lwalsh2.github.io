@@ -11,9 +11,11 @@ div#page1
 	margin-right: auto;
 	// For grow & shrink as per screen size change values as per your requirements
 	width: 80%;
-	height: 1000px;
 	background-image: url(../image/scenery.jpg);
-	background-size: cover;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
 }
 
 div#page2
@@ -25,6 +27,19 @@ div#page2
 	// For grow & shrink as per screen size change values as per your requirements
 	width: 80%;
 	height: 50%;
+}
+div#page3
+{
+	background-color: lightgray;
+	//For center align
+	margin-left: auto;
+	margin-right: auto;
+	// For grow & shrink as per screen size change values as per your requirements
+	width: 80%;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
 }
 
 /* Change body */
