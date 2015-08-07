@@ -175,3 +175,7 @@ ul > li > ol > li
 {
 	list-style: decimal;
 }
+img {
+    height: auto;
+    max-width: 100%;
+}
