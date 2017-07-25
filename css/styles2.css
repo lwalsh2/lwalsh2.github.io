@@ -5,14 +5,14 @@ html
 }
 div#page1
 {
-	
+
 	//For center align
 	margin-left: auto;
 	margin-right: auto;
 	// For grow & shrink as per screen size change values as per your requirements
 	width: 80%;
 	height: 100%;
-	background-image: url(../image/scenery.jpg);
+	background-color: lightgray;
 	background-size: cover;
 }
 
@@ -23,7 +23,7 @@ body
 	min-height: 100%;
 }
 
-p 
+p
 {
 	font-family: georgia;
 	text-align: center;
@@ -34,7 +34,7 @@ p
 	padding-right: 10px;
 }
 
-h1 
+h1
 {
 	margin-top: 30px;
 	margin-left: -5px;
@@ -50,7 +50,7 @@ h1
 
 /* Image styles */
 
-img 
+img
 {
 	display: block;
 	margin-top: 20px;
