@@ -1,1 +1,7 @@
-CSS holds the styling sheets made for the home and resume page. The image folder holds the background photo for the home page. The js folder holds the JavaScript files used in the web page. Index is the home page, and walsh_resume is the resume page.
+# Personal Webpage
+This is a personal webpage repo that tests github's webhosting feature.
+
+## Files:
+HTML: Webpage body. Index and About Me pages.
+CSS: Styling sheets made for webpage design.
+JPG: Background image for home page.
